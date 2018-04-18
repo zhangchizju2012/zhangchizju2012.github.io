@@ -1,7 +1,6 @@
-/_site
-*.html~
-*.md~
-*.markdown~
-
-# For macOS
-*.DS_Store
+_site
+node_modules
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*.sh
